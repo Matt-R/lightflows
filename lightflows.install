@@ -432,7 +432,7 @@ function lightflows_install() {
  // Any themes without keys here will get numeric keys and so will be enabled,
  // but not placed into variables.
 	$enable = array(
- 	 'theme_default' => 'omega',
+ 	 'theme_default' => 'lightflows_theme',
  	 'admin_theme' => 'seven',
 	  //'zen'
 	);

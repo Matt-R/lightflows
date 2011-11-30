@@ -150,7 +150,7 @@ dependencies[] = quicktabs
 ;SEO
 ;dependencies[] = seo_checklist
 ;dependencies[] = google_analytics
-dependencies[] = globalredirect
+;dependencies[] = globalredirect
 dependencies[] = xmlsitemap
 dependencies[] = site_map
 
