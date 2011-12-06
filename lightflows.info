@@ -135,6 +135,8 @@ dependencies[] = lightflows_wysiwyg
 ;SHORTCODE
 dependencies[] = shortcode 
 
+dependencies[] = lightflows_shortcode 
+
 ;CK EDITOR
 ;dependencies[] = ckeditor_styles
 
