@@ -130,6 +130,8 @@ dependencies[] = filefield_sources
 dependencies[] = better_formats
 ;dependencies[] = imce_tools
 
+dependencies[] = lightflows_wysiwyg
+
 ;SHORTCODE
 dependencies[] = shortcode 
 
